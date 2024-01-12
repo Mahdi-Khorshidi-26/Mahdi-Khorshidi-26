@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mahdi Khorshidi
-- 👀 I’m interested in Movies
+- 👀 I’m interested in Cars
 - 🌱 I’m currently learning React.js and Next.js
 - 💞️ I’m looking to collaborate on big projects and building web-applications
 - 📫 How to reach me khorshid.mahdi.1998@gmail.com
