@@ -6,7 +6,7 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm a race driver 😄
 
-👋 Hi, I’m Mahdi — a Frontend Developer with 7+ years of experience, specialized in building **modern e-commerce solutions**.
+A Frontend Developer with 7+ years of experience, specialized in building **modern e-commerce solutions**.
 
 I focus on creating **high-performance**, **scalable**, and **user-friendly storefronts** that help businesses grow.
 
